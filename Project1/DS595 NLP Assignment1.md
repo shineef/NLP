@@ -61,21 +61,21 @@
    
    (text)
    
-   ![real_news_wordcloud.png](C:\Users\xy2fo\Desktop\DS595NLP\real_news_wordcloud.png)
+   ![real_news_wordcloud.png](real_news_wordcloud.png)
    
    (title)
    
-   ![real_news_title_wordcloud_B.png](C:\Users\xy2fo\Desktop\DS595NLP\real_news_title_wordcloud_B.png)
+   ![real_news_title_wordcloud_B.png](real_news_title_wordcloud_B.png)
    
    The word cloud for fake news:
    
    (text)
    
-   ![fake_news_wordcloud.png](C:\Users\xy2fo\Desktop\DS595NLP\fake_news_wordcloud.png)
+   ![fake_news_wordcloud.png](fake_news_wordcloud.png)
    
    (title)
    
-   ![fake_news_title_wordcloud_B.png](C:\Users\xy2fo\Desktop\DS595NLP\fake_news_title_wordcloud_B.png)
+   ![fake_news_title_wordcloud_B.png](fake_news_title_wordcloud_B.png)
 
 2. The difference between real news and fake news 
    
